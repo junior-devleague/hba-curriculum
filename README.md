@@ -1,4 +1,4 @@
-#Curriculum for the Hawaii Baptist Academy/Jr DevLeague - Web Development After School Program
+##Curriculum for the Hawaii Baptist Academy/Jr DevLeague - Web Development After School Program
 
 Each module may contain a sub-module, in which case, only contains directories for each sub-module.
 
