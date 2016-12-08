@@ -19,7 +19,7 @@ To create a simple web application using **HTML elements** and style with CSS.
   + A **header** that contains the name of your team
   + A **paragraph** with your team's mission statement
   + An **ordered list** with the names of all your team members
-  ++ Within each ordered list item, create a **paragraph** that details each team member's super power.
+  + Within each ordered list item, create a **paragraph** that details each team member's super power.
   + A **picture** of your team
 
 
