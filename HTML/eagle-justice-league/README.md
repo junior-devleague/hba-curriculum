@@ -8,11 +8,11 @@
 ##Suggested Order of Delivery
 1. Have students create new repo called notes [10 mins]
 2. HTML Warm-up Exercise [25 mins]
- + https://github.com/creindle/HBA-HTML-CSS/tree/morning-exercise
+ + https://github.com/junior-devleague/eagle-justice-league/tree/morning-exercise
 3. Break [10mins]
 4. CSS Introduction [15 mins]
 5. CSS Integration Exercise [25 mins]
- + https://github.com/creindle/HBA-HTML-CSS/tree/master
+ + https://github.com/junior-devleague/eagle-justice-league/tree/master
 6. Sign up for Medium and create Medium Blog post about assigned topic.. [remainder of the class]
 
 
@@ -48,6 +48,6 @@ Levels of understanding:
 - Have students create Medium blog post and assign them research topic to write about for next class.
 
 ##Work
-https://github.com/junior-devleague/pet-store
+https://github.com/junior-devleague/eagle-justice-league
 
 
