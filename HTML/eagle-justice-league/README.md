@@ -34,13 +34,13 @@ _Note: Remember to make a commit after each html element is added!_
 >
 ##Your Challenge
 >
-1. Within the `body` element, change the following:
+1. Using the `body` selector, change the following:
   + The _value_ of the _property_ **background-color** to a color of your choice
 >
-2. For each `p` element within the `body` element, change the following:
+2. Using the 'p' selector, change the following:
   + The _value_ of the _property_ **font-size** to `10px`
 >
-3. For each `li` element within the `body` element, change the following:
+3. Using the 'li' selector, change the following:
   + The _value_ of the _property_ **border-style** to `solid`
 >
 _Bonus: Modify the values of 5 different element properties and make your picture a 300px by 300px size._
