@@ -31,7 +31,7 @@ _Note: Remember to make a commit after each html element is added!_
 1. Create a new file called `styles.css`
 2. Link your CSS file in your HTML
 >
-
+>
 ##Your Challenge
 >
 1. Within the `body` element, change the following:
