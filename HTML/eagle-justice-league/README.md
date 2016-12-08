@@ -49,4 +49,4 @@ _Note: Each element must have a different `background-color` from one another._
   + The _value_ of the _property_ `border-style` to `solid`
 
 _Bonus: Modify the values of 5 different elemenet properties and make your picture a 300px by 300px size._
->
+
