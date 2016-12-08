@@ -1,47 +1,53 @@
-#Eagle Justice League
-We will be practicing how to structure HTML to create an informative web application about the Eagle Justice Team!
+#HTML and CSS Introduction
+
+##Prerequisities
+ + Students should know how to add directories and files in the terminal.
+ + Students should know how to create an index.html document.
+ + Students should know set up an HTML file and difference between head and body.
+
+##Suggested Order of Delivery
+1. Have students create new repo called notes [10 mins]
+2. HTML Warm-up Exercise [25 mins]
+ + https://github.com/creindle/HBA-HTML-CSS/tree/morning-exercise
+3. Break [10mins]
+4. CSS Introduction [15 mins]
+5. CSS Integration Exercise [25 mins]
+ + https://github.com/creindle/HBA-HTML-CSS/tree/master
+6. Sign up for Medium and create Medium Blog post about assigned topic.. [remainder of the class]
 
 
-##Objective
-To create a simple web application using **HTML elements** and style with CSS.
+##Topics Covered
+
+Levels of understanding:
+ - HTML Syntax [grok] - Students should recognize what the structure of a HTML file looks like.
+ - CSS Syntax [grok] - Students should recognize what the structure of a CSS file looks like.
+ - CSS and HTML relationship and when to use them [teach] - Students should be able to explain the relationship between CSS and HTML and understand when to use both.
+ - CSS Selectors and Attributes [about] - Students should know basic CSS such as element selectors, id selectors, class selectors, and at least 5 different style attributes to format a page their liking.
+ - HTML [about] - Students should know how to set up the skeleton of a webpage and how to use at least 5 different elements on one webpage.
 
 
-##Part 1 - HTML
->
-##Set up
-1. Clone this repository using the command line
-2. Create a new file called `index.html`
->
-##Your Challenge
-1. Change the title of your web app in the `head` of your HTML structure to _Eagle Justice League_
->
-2. Within the `body` of your HTML structure, create the following:
-  + A **header** that contains the name of your team
-  + A **paragraph** with your team's mission statement
-  + An **ordered list** with the names of all your team members
-  + Within each ordered list item, create a **paragraph** that details each team member's super power.
-  + A **picture** of your team
+##Suggested Format for Delivery
+ - Have students create new repo called notes where students will practice adding and pushing files to GitHub they will learn.
+  + git status
+  + git add
+  + git commit
+  + git push
+ - Teach the students `fork` and `clone` the warm-up exercise from GitHub
+ - Have the students work on the warm up exercise in teams of 2.
+  + Have students work on exercise for 15 minutes, then begin to help after
+  + Have students modify their code, to commit and push up changes to same repository
+  + Have students make changes locally and push to Github 
+ - Once students are completed, move on to next topic “CSS”
+  + What are classes?
+  + What are ids?
+  + What are attributes?
+  + Creating a CSS file
+  + Syntax
+  + Linking files
+ - Have students expand on HTML warm up exercise with CSS and push up changes. 
+- Have students create Medium blog post and assign them research topic to write about for next class.
 
+##Work
+https://github.com/junior-devleague/pet-store
 
-_Note: Remember to make a commit after each html element is added!_
-
-##Part 2 - CSS
->
-##Set up
-1. Create a new file called `styles.css`
-2. Link your CSS file in your HTML
->
->
-##Your Challenge
->
-1. Using the `body` selector, change the following:
-  + The _value_ of the _property_ **background-color** to a color of your choice
->
-2. Using the `p` selector, change the following:
-  + The _value_ of the _property_ **font-size** to `10px`
->
-3. Using the `li` selector, change the following:
-  + The _value_ of the _property_ **border-style** to `solid`
->
-_Bonus: Modify the values of 5 different element properties and make your picture a 300px by 300px size._
 
