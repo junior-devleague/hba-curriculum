@@ -33,6 +33,7 @@ _Note: Remember to make a commit after each html element is added!_
 >
 
 ##Your Challenge
+>
 1. Within the `body` element, change the following:
   + The _value_ of the _property_ `background-color` to a color of your choice
 
@@ -48,3 +49,4 @@ _Note: Each element must have a different `background-color` from one another._
   + The _value_ of the _property_ `border-style` to `solid`
 
 _Bonus: Modify the values of 5 different elemenet properties and make your picture a 300px by 300px size._
+>
