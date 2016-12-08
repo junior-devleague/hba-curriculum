@@ -13,7 +13,7 @@
 4. CSS Introduction [15 mins]
 5. CSS Integration Exercise [25 mins]
  + https://github.com/junior-devleague/eagle-justice-league/tree/master
-6. Sign up for Medium and create Medium Blog post about assigned topic.. [remainder of the class]
+6. Sign up for Medium and create Medium Blog post about assigned topic. [remainder of the class]
 
 
 ##Topics Covered
@@ -33,10 +33,10 @@ Levels of understanding:
   + git commit
   + git push
  - Teach the students `fork` and `clone` the warm-up exercise from GitHub
- - Have the students work on the warm up exercise in teams of 2.
+ - Have the students work on the warm up exercise in teams of 2
   + Have students work on exercise for 15 minutes, then begin to help after
-  + Have students modify their code, to commit and push up changes to same repository
-  + Have students make changes locally and push to Github 
+  + Have students modify their code, commit and push up changes to same repository
+  + Have students make changes locally and push to Github
  - Once students are completed, move on to next topic “CSS”
   + What are classes?
   + What are ids?
@@ -44,10 +44,9 @@ Levels of understanding:
   + Creating a CSS file
   + Syntax
   + Linking files
- - Have students expand on HTML warm up exercise with CSS and push up changes. 
+ - Have students expand on HTML warm up exercise with CSS and push up changes.
 - Have students create Medium blog post and assign them research topic to write about for next class.
 
 ##Work
 https://github.com/junior-devleague/eagle-justice-league
-
 
